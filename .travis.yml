@@ -7,4 +7,4 @@ deploy:
     secure: a5fff873-2ee7-49ae-b605-a566e5ef272e
   app: ancient-bastion-7932
   on:
-    repo: filipeguelber/node-app
+    repo: davidgamer/node-app
