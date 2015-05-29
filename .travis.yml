@@ -5,7 +5,7 @@ deploy:
   provider: heroku
   api_key:
     secure: a5fff873-2ee7-49ae-b605-a566e5ef272e
-  app: ancient-bastion-7932
+  app: mighty-depths-8711 
   on:
     repo: davidgamer/node-app
 
